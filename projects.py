@@ -74,10 +74,26 @@
 
 
 # Rock paper Scissor gaming 
-import random
-choices = [rock,paper,scissor]
-user = input("enter  rock ,paper ,scissor:"].lower()
-computer = random.choice(choices)
+# import random
+# choices = [rock,paper,scissor]
+# user = input("enter  rock ,paper ,scissor:"].lower()
+# computer = random.choice(choices)
+# print("You choose:",user)
+# print("Computer choose:",computer)
+
+# if computer == user:
+#   print("Match is tie!")
+# elif user == rock and computer == scissor:
+#   print("You won")
+# elif user == scissor and computer == paper :
+#   print("You win")
+# elif user == paper and computer == rock:
+#   print("You Win")
+# elif user in choices:
+#   print("commputer Wins!")
+# else :
+#   print("Invalid Input")
+
 
 #  #  Guessing the number given by user:
 # n = int(input())
