@@ -96,6 +96,13 @@
 
 
 #  #  Guessing the number given by user:
-import random
-user = int(inpuut())
-
+# import random
+# numbers = [1,2,3,4,5,6,7,8,9,10]
+# user = int(input())
+# compter = random.choice(numbers)
+# print("You choose:",user)
+# print("computer choose:",computer)
+# if computer == user:
+#   print("Guess number is correct",user)
+# else:
+#   print("Guess Number is wrong:")
