@@ -96,6 +96,6 @@
 
 
 #  #  Guessing the number given by user:
-# n = int(input())
-# if n == n:
-#       print("the passward is right")
+import random
+user = int(inpuut())
+
