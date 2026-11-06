@@ -109,5 +109,8 @@
 
 
 # age calculator
+user = int(input("enter your birth year")
+current_year = int(input("enter the current yeat:")
+age = Current_year - user
+print("your age is:",age,"years")
 
-# age is 
