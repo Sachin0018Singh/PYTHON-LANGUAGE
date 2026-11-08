@@ -1,5 +1,9 @@
 #  OOP(object oriented programme)
+# OOPS (Object-Oriented Programming System) is a programming approach where you organize your code using objects and classes instead of only functions.
+
+
 #  class
+
 class Student:
     name = "karan"
     
