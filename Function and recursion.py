@@ -22,8 +22,8 @@ print(c)
 #  for hello 
 def print_hello():
     print("Hello")
-    
-    
+
+
 #1
 print_hello()
 print_hello()
