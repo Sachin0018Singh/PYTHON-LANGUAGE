@@ -1,8 +1,8 @@
 # functions (It means the code design that perform specific Task)
+# first step define function clearly than use it regular
+
 def calc_sum(a,b):
     return a + b
-
-
 
 # 1
 a = calc_sum(2,5)
