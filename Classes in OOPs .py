@@ -21,10 +21,8 @@ class Account:
         
 
         
-        
 acc1 = Account("12345","ABCDE")
 print(acc1.acc_no)
-print(acc1.__acc_pass)
 
 
 #  for reset pass 
