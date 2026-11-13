@@ -1,5 +1,4 @@
 # # 01 Made a Calcualtor 
-
 # number1 = int(input("enter first number"))
 # number2 = int(input("enter second number"))
 
@@ -22,8 +21,8 @@
   # print("invalid syntax")
 
 
-# #  Grade System of the student:
 
+# #  Grade System of the student:
 # subject1 = int(input())
 # subject2 = int(input())
 # subject3 = int(input())
@@ -48,8 +47,8 @@
 #       print("fail")
 
 
-# # # passward generator
 
+# # # passward generator
 # enter_password = input("enter the password")
 # passward = "123456"
 # if passward == enter_password:
@@ -60,7 +59,6 @@
       
       
 # # TO Do  list
-
 # Task1 = input()
 # Task2 = input()
 # Task3 = input()
@@ -71,6 +69,7 @@
 # print("third task is :",Task3)
 # print("fourth task is :",Task4)
 # print("fifth task is :",Task5)
+
 
 
 # Rock paper Scissor gaming 
@@ -95,6 +94,7 @@
 #   print("Invalid Input")
 
 
+
 #  #  Guessing the number given by user:
 # import random
 # numbers = [1,2,3,4,5,6,7,8,9,10]
@@ -106,6 +106,7 @@
 #   print("Guess number is correct",user)
 # else:
 #   print("Guess Number is wrong:")
+
 
 
 # age calculator
