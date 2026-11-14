@@ -5,7 +5,6 @@ class Account:
         self.acc_no = acc_no
         self.acc_pass = acc_pass
         
-        
 acc1 = Account("12345","ABCDE")
 print(acc1.acc_no)
 print(acc1.acc_pass)
@@ -18,9 +17,7 @@ class Account:
     def __init__(self,acc_no,acc_pass):
         self.acc_no = acc_no
         self.__acc_pass = acc_pass
-        
-
-        
+     
 acc1 = Account("12345","ABCDE")
 print(acc1.acc_no)
 
@@ -31,10 +28,8 @@ class Account:
         self.acc_no = acc_no
         self.__acc_pass = acc_pass
         
-        
     def reset_pass(self):
         print(self.__acc_pass)
-        
         
 acc1 = Account("12345","ABCDE")
 print(acc1.acc_no)
